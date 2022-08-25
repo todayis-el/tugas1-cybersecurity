@@ -1,0 +1,18 @@
+lab 1 
+- menambahkan <script>alert(1)</script> di url
+lab 2
+- memasukan <script>alert(1)</script>di pengisian namanya
+lab 3
+- pergi ke burpsuite masukan <script>alert(1)</script> di user agent
+lab 4
+- pergi ke burpsuite masukan <script>alert(1)</script> refferer
+lab 5
+- pergi ke burpsuite masukan <script>alert(1)</script> di cookies
+lab 7 
+- masukan terserah username hingga salah kemudian masukan  <script>alert(1)</script> di url massage
+lab 8 
+-
+lab 9
+- encode <script>alert(1)</script> ke dalam base 64 lalu hasil encode masukan ke url status 
+lab 10
+-
